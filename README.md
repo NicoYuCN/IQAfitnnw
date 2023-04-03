@@ -1,4 +1,5 @@
-# IQAfitnnw
+
+"# IQAfitnnw
 Consensus feature selection for blind image quality assessment
 
 
@@ -30,4 +31,4 @@ Highlights
 NOTE
     The idea and manuscript is under review. If helpful, please cite the manuscript below,
     
-        Yu S, Wang J, Gu J, Jin M, Ma Y, Yang L, Li J. "A hybrid indicator for realistic blurred image quality assessment". 2023 (under review).
+        Yu S, Wang J, Gu J, Jin M, Ma Y, Yang L, Li J. "A hybrid indicator for realistic blurred image quality assessment". 2023 (under review)."

@@ -6,7 +6,7 @@ Consensus feature selection for blind image quality assessment
 # The codes
 
   ---- codeBISA  
-          \t the codes of diverse BISA algorithms  
+          ensp the codes of diverse BISA algorithms  
   ---- real_KonIQ  
           \t the prediction scores by using different BISA methods  
   ---- scoreBISAground  

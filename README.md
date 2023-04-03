@@ -1,9 +1,9 @@
 
-"# IQAfitnnw
+# IQAfitnnw
 Consensus feature selection for blind image quality assessment
 
 
-The reporsitory
+# The codes
 
   ---- codeBISA
           the codes of diverse BISA algorithms
@@ -21,14 +21,14 @@ The reporsitory
   ---- s04fusion
           the performance using selected features for imag quality assessment
 
-Highlights
+# Highlights
   [1] Image quality assessment is formulated as a feature selection and score prediction problem. 
   [2] Learning-free and shallow-learning-based indicators perform as mid-level feature extractors, 
           and consensus-based feature selection is proposed for informative feature screening.
   [3] Fifteen indicators and four regression models are explored, 
           and the hybrid indicator achieves considerable improvement on four realistic image datasets.
 
-NOTE
+# NOTE
     The idea and manuscript is under review. If helpful, please cite the manuscript below,
     
         Yu S, Wang J, Gu J, Jin M, Ma Y, Yang L, Li J. "A hybrid indicator for realistic blurred image quality assessment". 2023 (under review)."

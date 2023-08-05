@@ -22,4 +22,4 @@
 <br />
 If you find useful of the codes or the idea, please cite
 <br />
-  &nbsp; &nbsp; Yu S, Wang J, Gu J, Jin M, Ma Y, Yang L, Li J. A hybrid indicator for realistic blurred image quality assessment. Journal of Visual Communication and Image Representation. 2023 Jun 1; 94: 103848.
+  &emsp; Yu S, Wang J, Gu J, Jin M, Ma Y, Yang L, Li J. A hybrid indicator for realistic blurred image quality assessment. Journal of Visual Communication and Image Representation. 2023 Jun 1; 94: 103848.
